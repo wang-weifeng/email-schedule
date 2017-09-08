@@ -1,0 +1,23 @@
+{
+  "name": "email-schedule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "email.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wang-weifeng/email-schedule.git"
+  },
+  "author": "wangweifeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wang-weifeng/email-schedule/issues"
+  },
+  "homepage": "https://github.com/wang-weifeng/email-schedule#readme",
+  "dependencies": {
+    "node-schedule": "^1.2.4",
+    "nodemailer": "^4.1.0"
+  }
+}
